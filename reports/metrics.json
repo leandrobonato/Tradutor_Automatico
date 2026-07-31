@@ -1,0 +1,111 @@
+{
+  "split": "test",
+  "n_examples": 30,
+  "beam_width": 3,
+  "bleu": 0.18911129256152984,
+  "chrf": 2.701942729616194,
+  "seconds_total": 36.74020767211914,
+  "seconds_per_sentence": 1.224673589070638,
+  "sample_translations": [
+    {
+      "en": "Check that backpack, Dave, for medication.",
+      "pt_ref": "Veja o que tem na mochila Dave, principalmente remédios.",
+      "pt_pred": "-,,,,,,."
+    },
+    {
+      "en": "She pursued her education at Renmin University of China in Beijing and subsequently began a career as a sports journalist and commentator.",
+      "pt_ref": "Após, graduou-se na Universidade Ren Min, em Pequim e posteriormente iniciou sua carreira de jornalista esportiva e comentarista da modalidade.",
+      "pt_pred": "- O que o que o que o que o que o que de."
+    },
+    {
+      "en": "The episode was written by Ken Keeler and was directed by Steven Dean Moore.",
+      "pt_ref": "O episódio foi escrito por Ken Keeler e foi dirigido por Steven Dean Moore.",
+      "pt_pred": "- O que o que o que o que o que o que o que de."
+    },
+    {
+      "en": "Well, that and tuning a guitar in front of a live audience.",
+      "pt_ref": "Bem, isso e afinar uma guitarra em frente de uma audiência ao vivo.",
+      "pt_pred": "Sim,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, de"
+    },
+    {
+      "en": "And then I went blind.",
+      "pt_ref": "E depois fiquei cego.",
+      "pt_pred": "- Não."
+    },
+    {
+      "en": "In the last 20 days after my marriage I've heard of this genius.. ..of a brother-in-law for at Ieast 20,000 times.",
+      "pt_ref": "Nos últimos 20 dias só ouvi falar deste génio do meu cunhado por pelo menos umas 20,000 vezes.",
+      "pt_pred": "-, que o que o que o que o que o que de."
+    },
+    {
+      "en": "How did they pry you away from it?",
+      "pt_ref": "Como conseguiram fazer isso com você?",
+      "pt_pred": "- é que é que é que?"
+    },
+    {
+      "en": "London, 16 August 2007 EMEA/ 378451/ 2007",
+      "pt_ref": "Londres, 16 de Agosto de 2007 EMEA/ 378451/ 2007",
+      "pt_pred": "-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+    },
+    {
+      "en": "Hell, I even had--had your grave exhumed two months ago because I was convinced that you were--you were alive.",
+      "pt_ref": "Até mandei... exumar a tua sepultura há dois meses porque estava convencido... que estavas viva.",
+      "pt_pred": "Sim,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+    },
+    {
+      "en": "What are they looking for, those collaborators?",
+      "pt_ref": "O que procuram os colaboradores?",
+      "pt_pred": "- é que é que é que?"
+    },
+    {
+      "en": "And by tonight, Arthur Tins is gonna be dead.",
+      "pt_ref": "E, hoje à noite, o Arthur Tins vai estar morto.",
+      "pt_pred": "-,,,,,."
+    },
+    {
+      "en": "- Night, Jake.",
+      "pt_ref": "- Adeus, Jake.",
+      "pt_pred": "-,."
+    },
+    {
+      "en": "2. With the function of automatic lifting and falling , can realize no-load starting.",
+      "pt_ref": "2. Com a função de elevação e queda automática, pode realizar sem carga inicial.",
+      "pt_pred": "- Não, que o que o que de."
+    },
+    {
+      "en": "Whip, I got a Hail Mary.",
+      "pt_ref": "Chicote, tenho um último recurso.",
+      "pt_pred": "-,,,,."
+    },
+    {
+      "en": "That code shall be contained in one of the following means to be decided by the competent authority:",
+      "pt_ref": "O código estará contido num dos seguintes meios, a decidir pela autoridade competente:",
+      "pt_pred": "A que o que o que o que o que o que o que o que o que o que o que o que o que o que o que o que o que o que o que o que o que o que o que o que o que o que o que o que o que o de"
+    },
+    {
+      "en": "Tomorrow, as you leave, recite those lines to her.",
+      "pt_ref": "Amanhã de manhã quando a deixar... recite o verso que eu disse agora.",
+      "pt_pred": "-,,,,,,,."
+    },
+    {
+      "en": "Mr Nogueira, firstly, in relation to your last comments, I do not see that conflict between the positions of the Commission and of the Council.",
+      "pt_ref": "Senhor Deputado Nogueira Román, em relação às suas últimas observações, não vejo esse conflito entre a posição da Comissão e a do Conselho.",
+      "pt_pred": "-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+    },
+    {
+      "en": "OK? I got works there.",
+      "pt_ref": "Coisas do trabalho.",
+      "pt_pred": "- é que é que é que é."
+    },
+    {
+      "en": "Right on through. Into the bathroom.",
+      "pt_ref": "Directo para a casa de banho.",
+      "pt_pred": "- é que o que o."
+    },
+    {
+      "en": "- Not enough. - Yes, I agree.",
+      "pt_ref": "- Não é o bastante.",
+      "pt_pred": "-,."
+    }
+  ]
+}

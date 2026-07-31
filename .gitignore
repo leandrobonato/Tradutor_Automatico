@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Projeto Tradutor_Automatico -----------------------------------------
+# Dados brutos/processados e cache do HuggingFace ficam salvos localmente
+# dentro da pasta do projeto (pedido do usuário), mas fora do git por serem
+# grandes e 100% reproduzíveis via `python -m src.data.download` +
+# `python -m src.data.preprocess`.
+data/raw/
+data/processed/
+data/tokenizer/*.model
+data/tokenizer/*.vocab
+
+# Checkpoints treinados (grandes, reproduzíveis via `python -m src.train`)
+models/*.pt
+
+# Logs de progresso dos scripts de retry em background (scripts/retry_*.sh)
+*_progress.log
+
+# Claude Code
+.claude/

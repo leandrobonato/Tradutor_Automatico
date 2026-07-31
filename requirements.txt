@@ -1,0 +1,10 @@
+torch>=2.9,<3
+datasets>=4,<6
+sentencepiece>=0.2,<0.3
+sacrebleu>=2.6,<3
+pandas>=2.3,<3
+numpy>=2,<3
+matplotlib>=3.10,<4
+gradio>=6,<7
+pytest>=8,<9
+tqdm>=4.66,<5
